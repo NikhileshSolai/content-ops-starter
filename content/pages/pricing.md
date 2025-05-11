@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Home
 slug: pricing
 sections:
   - title:
